@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+	  <!-- TemplateBeginEditable name="doc-title" -->
+
+<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+	  <!-- TemplateBeginEditable name="head" -->
+
+	<style type="text/css">
+@import url("../assets/styless.css");
+    </style>
+	<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header><img src="../imafges/hollowart.png" width="1280" height="250" alt=""/></header>
+  <nav>
+	
+	
+	<ul>
+		<li><a href="../pages/aboutt.html">About</a></li>
+		<li><a href="../pages/blogg.html">Blog</a></li>
+		<li><a href="../pages/galleryy.html">Gallery</a></li>
+		<li><a href="../pages/contactt.html">Contact</a></li>
+		
+		
+	  </ul>
+	</nav>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>contact me</h1>
+  </main>
+  <!-- TemplateEndEditable --> 
+ 
+		
+  
+</div>
+</body>
+</html>

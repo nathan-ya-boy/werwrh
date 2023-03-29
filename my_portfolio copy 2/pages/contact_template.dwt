@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+	  <!-- TemplateBeginEditable name="doc-title" -->
+
+<title>Untitled Document</title>
+	<!-- TemplateEndEditable -->
+	  <!-- TemplateBeginEditable name="head" -->
+
+	<style type="text/css">
+@import url("../assets/styless.css");
+    </style>
+	<!-- TemplateEndEditable -->
+</head>
+
+<body>
+	<div id="container">
+  <header><img src="../imafges/hollowart.png" width="768" height="250" alt=""/></header>
+  <nav>
+	
+	
+	<ul>
+		<li><a href="../about.html">About</a></li>
+		<li><a href="../blog.html">Blog</a></li>
+		<li><a href="gallery.html">Gallery</a></li>
+		<li><a href="../contact.html">Contact</a></li>
+		
+	  </ul>
+	</nav>
+  <!-- TemplateBeginEditable name="main-content" -->
+  <main>
+    <h1>contact me</h1>
+  </main>
+  <!-- TemplateEndEditable --> 
+ <aside><h3>I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.</h3>
+	</aside>
+		<footer>I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man, awesome man, who does epic things all tha time.I am man.</footer>
+  
+</div>
+</body>
+</html>
